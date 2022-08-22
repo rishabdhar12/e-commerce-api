@@ -6,6 +6,15 @@
 * Express
 * Twilio
 
+# Steps to install and run the project:
+* fork the repo then clone it.
+* run npm install to install the dependencies.
+* create a .env file and add the following conf:
+    1. Mongodb url
+    2. JWT secret key
+    3. Twilio credentials
+* npm run
+
 # Schema list:
 * User
 * Product
